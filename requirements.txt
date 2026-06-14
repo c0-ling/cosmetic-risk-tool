@@ -1,5 +1,7 @@
 streamlit>=1.36
 pandas>=2.2
-requests>=2.32
-beautifulsoup4>=4.12
-lxml>=5.2
+pillow>=10.4
+numpy>=1.26
+easyocr>=1.7
+opencv-python-headless>=4.10
+altair>=5.0
